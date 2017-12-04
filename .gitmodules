@@ -1,0 +1,3 @@
+[submodule "diagnosis"]
+	path = diagnosis
+	url = https://github.com/arschool/diagnosis.git
