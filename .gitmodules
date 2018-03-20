@@ -40,3 +40,6 @@
 [submodule "10/fortune"]
 	path = 10/fortune
 	url = https://github.com/arschool10/fortune.git
+[submodule "08/fortune"]
+	path = 08/fortune
+	url = https://github.com/arschool08/fortune.git
