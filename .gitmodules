@@ -4,3 +4,6 @@
 [submodule "fortune"]
 	path = fortune
 	url = https://github.com/arschool/fortune.git
+[submodule "05/fortune"]
+	path = 05/fortune
+	url = https://github.com/arschool05/fortune.git
