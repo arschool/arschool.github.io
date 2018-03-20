@@ -7,3 +7,36 @@
 [submodule "05/fortune"]
 	path = 05/fortune
 	url = https://github.com/arschool05/fortune.git
+[submodule "05/diagnosis"]
+	path = 05/diagnosis
+	url = https://github.com/arschool05/diagnosis.git
+[submodule "01/fortune"]
+	path = 01/fortune
+	url = https://github.com/arschool01/fortune.git
+[submodule "01/diagnosis"]
+	path = 01/diagnosis
+	url = https://github.com/arschool01/diagnosis.git
+[submodule "02/diagnosis"]
+	path = 02/diagnosis
+	url = https://github.com/arschool02/diagnosis.git
+[submodule "03/fortune"]
+	path = 03/fortune
+	url = https://github.com/arschool03/fortune.git
+[submodule "04/diagnosis"]
+	path = 04/diagnosis
+	url = https://github.com/arschool04/diagnosis.git
+[submodule "06/fortune"]
+	path = 06/fortune
+	url = https://github.com/arschool06/fortune.git
+[submodule "08/diagnosis"]
+	path = 08/diagnosis
+	url = https://github.com/arschool08/diagnosis.git
+[submodule "09/diagnosis"]
+	path = 09/diagnosis
+	url = https://github.com/arschool09/diagnosis.git
+[submodule "09/fortune"]
+	path = 09/fortune
+	url = https://github.com/arschool09/fortune.git
+[submodule "10/fortune"]
+	path = 10/fortune
+	url = https://github.com/arschool10/fortune.git
